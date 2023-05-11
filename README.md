@@ -1,0 +1,2 @@
+# College-Graduate-Admission-Using-ANN-Artificial-neural-network-
+This repository contains an analysis of college graduate admission using Artificial Neural Networks (ANN). ANN is a machine learning technique inspired by the structure and functioning of biological neural networks. It has proven to be a powerful tool for modeling complex relationships in various fields, including education and admissions.
